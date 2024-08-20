@@ -1,0 +1,6 @@
+width ,, 30, 30
+title "Yay"
+cls 4
+color 255, 0, 0
+pos 50, 100
+mes "Hello World"
